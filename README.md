@@ -29,3 +29,11 @@ This extension contributes no settings.
 ### 0.0.1
 
 - Initial release
+
+## Portfolio Case Study
+
+This repository is part of Jaron Rosenau's implementation, developer-support, and integration engineering portfolio. The public case study summarizes the problem, delivery scope, architecture, and operational result.
+
+- Case study: [copy-open-tabs implementation case study](https://rosenau.info/projects/E8EsnNcKOYpYOMpk3qQJ)
+- Full portfolio: [Jaron Rosenau](https://rosenau.info)
+- Summary: Browser workflow utility for capturing and sharing open-tab context from VS Code.
